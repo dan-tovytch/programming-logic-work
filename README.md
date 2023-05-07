@@ -7,7 +7,7 @@ All the questions I solved for the Logic Programming Practical Activity will be 
 ロジックプログラミング実習で解いた問題がすべて出題されます。
 
 Português (Brasil)🇧🇷
-Vou postá-lo aqui depois de ter sido revisado pelos professores para evitar plágio.
+Vou postá-lo aqui depois de ter sido corrigido pelos professores para evitar plágio.
 English (United States)🇺🇸
 I will be posting it here after it has been reviewed by the teachers to prevent plagiarism.
 日本🇯🇵
