@@ -1,6 +1,4 @@
 """Questão1"""
-# Imprime a mensagem de boas vindas
-print('Bem vindo a loja de Daniel Melentovytch Santos RU: 4464640')
 # Pede ao usuário o valor do produto e a quantidade desejada
 valor1 = int(input('Entre com o valor do produto: '))
 quant = int(input('Entre com o valor da quantidade: '))
