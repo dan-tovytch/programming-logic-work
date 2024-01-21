@@ -1,14 +1,6 @@
 # programming-logic-work
 ----------------------------------------------------------------------------------------------------
-Estará disponíveis todas as questões que resolvi para a Atividade Prática de Programação em Lógica. 
+# Todas as questões que eu resolvi na Atividade Prática de Logica de Programação estarão aqui.
 ----------------------------------------------------------------------------------------------------
-All the questions I solved for the Logic Programming Practical Activity will be available.
+# All the questions I solved in the Practical Activity of Programming Logic will be here.
 ----------------------------------------------------------------------------------------------------
-ロジックプログラミング実習で解いた問題がすべて出題されます。
-
-Português (Brasil)🇧🇷
-Vou postá-lo aqui depois de ter sido corrigido pelos professores para evitar plágio.
-English (United States)🇺🇸
-I will be posting it here after it has been reviewed by the teachers to prevent plagiarism.
-日本🇯🇵
-盗作を避けるために教師によって修正された後、ここに投稿します。
